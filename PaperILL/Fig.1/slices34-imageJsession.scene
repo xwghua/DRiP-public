@@ -1,0 +1,27 @@
+BeginView
+center =  1.0 1.0408341E-17 -8.326673E-17 254.45172 0.0 1.0 -1.110223E-16 204.58098 -9.7144515E-17 1.6653345E-16 1.0 370.23764 0.0 0.0 0.0 1.0
+translate =  1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0
+rotate =  0.9949483 0.01550482 -0.09918394 0.0 0.0026419784 -0.99170285 -0.12852426 0.0 -0.10035374 0.12761296 -0.98673403 0.0 0.0 0.0 0.0 1.0
+zoom =  1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 851.61334 0.0 0.0 0.0 1.0
+animate =  1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0
+EndView
+BeginContent
+name = slices34
+BeginContentInstant
+name = slices34_#0
+timepoint = 0
+channels = true%%%true%%%true
+transparency = 0.0
+threshold = 0
+resampling = 1
+type = 0
+locked = false
+shaded = true
+visible = true
+coordVisible = false
+plVisible = false
+rotation =  0.8052822 -0.13757199 -0.57671016 310.2155 -0.107315935 0.922819 -0.36998424 195.72281 0.5830986 0.35983187 0.728366 19.854975 0.0 0.0 0.0 1.0
+translation =  1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0
+imgfile = Untitled
+EndContentInstant
+EndContent
